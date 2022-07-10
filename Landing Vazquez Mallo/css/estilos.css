@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&family=Raleway:wght@800&display=swap');
+
+
+@font-face {
+    font-family: miFuente;
+    src: url(../fuentes/Montserrat-Regular.ttf);
+    font-weight: 400;
+}
+
+/*body va a ser la montserrat regular, o sea, miFuente*/
+
+body {
+    /*esto va ser mi background general, va a llegar hasta donde termina el body*/
+    background-image: url(../imagenes/fondo.png);
+    height: 80vh;
+    width: 80%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    
+    /*fuente Montserrat*/
+    font-family: 'miFuente';
+    font-weight: 400;
+    color: rgb(255, 253, 247)
+}
+
+div {
+    width: 33.3%;
+    margin: 0%, auto;
+    margin-left: 8.33%;
+}
+.responsive {
+    width: 70%;
+    height: auto;
+}
+
+#nombre {
+    display: block;
+    max-width: fit-content;
+    margin-left: 8.33%;
+    margin-top: 4.3%;
+
+}
+
+
+
+/*a van a ser los botones. lo que este adentro del id en el html lo va a reconocer aca*/
+a {
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1em;
+    color: rgba(255, 71, 25);
+    padding: .5em;
+}
+
+
+a:hover {
+    color: rgba(242, 252, 255);
+    background-color: rgba(255, 71, 25);
+
+}
+
+/*esto va a permitir que se adapte la tipografía a la pantalla*/
+@media (max-width: 768px) {
+    body {
+        font-size: 50%;
+    }
+
+}
+
+ul {
+    list-style-type: none;
+    padding: .5em;
+    margin-left: 8.33%;
+}
+li {
+    padding: .5em;
+}

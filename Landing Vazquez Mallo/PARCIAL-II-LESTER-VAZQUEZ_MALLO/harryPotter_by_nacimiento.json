@@ -1,0 +1,247 @@
+{
+  "minVaritaCm": 20.32,
+  "maxVaritaCm": 45.72,
+  "maxNacimiento": 1981,
+  "minNacimiento": 1925,
+  "characters": [
+    {
+      "nombre": "Luna Lovegood",
+      "genero": "female",
+      "nacimiento": 1981,
+      "especie": "human",
+      "casa": "Ravenclaw",
+      "numero" : 850,
+      "varitaCm": 34.29,
+      "hogwartsEstudiante": true,
+      "vivo": true,
+      "actor": "Evanna Lynch",
+      "cara": "Recurso 1luna.png"
+      
+      
+    },
+    {
+      "nombre": "Sirius Black",
+      "genero": "male",
+      "nacimiento": 1959,
+      "especie": "human",
+      "casa": "Gryffindor",
+      "numero" : 340,
+      "varitaCm": 27.94,
+      "hogwartsEstudiante": false,
+      "vivo": false,
+      "actor": "Gary Oldman",
+      "cara": "Recurso 14sirius.png"
+      
+    },
+    {
+      "nombre": "Remus Lupin",
+      "genero": "male",
+      "nacimiento": 1960,
+      "especie": "werewolf",
+      "numero" : 300,
+      "casa": "Gryffindor",
+      "varitaCm": 26.035,
+      "hogwartsEstudiante": false,
+      "vivo": false,
+      "actor": "David Thewlis",
+      "cara": "Recurso 13remus.png"
+      
+    },
+    {
+      "nombre": "Ginny Weasley",
+      "genero": "female",
+      "nacimiento": 1981,
+      "especie": "human",
+      "casa": "Gryffindor",
+      "numero" : 150,
+      "varitaCm": 36.068,
+      "hogwartsEstudiante": true,
+      "vivo": true,
+      "actor": "Bonnie Wright",
+      "cara": "Recurso 2ginny.png"
+      
+      
+    },
+    {
+      "nombre": "Harry Potter",
+      "genero": "male",
+      "nacimiento": 1980,
+      "especie": "human",
+      "casa": "Gryffindor",
+      "numero" : 200,
+      "varitaCm": 27.94,
+      "hogwartsEstudiante": true,
+      "vivo": true,
+      "actor": "Daniel Radcliffe",
+      "cara": "Recurso 3harry.png"
+      
+    },
+    {
+      "nombre": "Ron Weasley",
+      "genero": "male",
+      "nacimiento": 1980,
+      "especie": "human",
+      "casa": "Gryffindor",
+      "numero" : 240,
+      "varitaCm": 35.56,
+      "hogwartsEstudiante": true,
+      "vivo": true,
+      "actor": "Rupert Grint",
+      "cara": "Recurso 6ron.png"
+      
+    },
+    {
+      "nombre": "Dolores Umbridge",
+      "genero": "female",
+      "nacimiento": 1961,
+      "especie": "human",
+      "casa": "Slytherin",
+      "numero" : 1120,
+      "varitaCm": 20.32,
+      "hogwartsEstudiante": false,
+      "vivo": true,
+      "actor": "Imelda Staunton",
+      "cara": "Recurso 11dolores.png"
+      
+    },
+    {
+      "nombre": "Draco Malfoy",
+      "genero": "male",
+      "nacimiento": 1980,
+      "especie": "human",
+      "casa": "Slytherin",
+      "numero" : 1100,
+      "varitaCm": 25.4,
+      "hogwartsEstudiante": true,
+      "vivo": true,
+      "actor": "Tom Felton",
+      "cara": "Recurso 7draco.png"
+      
+    },
+    {
+      "nombre": "Neville Longbottom",
+      "genero": "male",
+      "nacimiento": 1980,
+      "especie": "human",
+      "casa": "Gryffindor",
+      "numero" : 280,
+      "varitaCm": 33.02,
+      "hogwartsEstudiante": true,
+      "vivo": true,
+      "actor": "Matthew Lewis",
+      "cara": "Recurso 8neville.png"
+      
+    },
+    {
+      "nombre": "Hermione Granger",
+      "genero": "female",
+      "nacimiento": 1979,
+      "especie": "human",
+      "casa": "Gryffindor",
+      "numero" : 320,
+      "varitaCm": 27.305,
+      "hogwartsEstudiante": true,
+      "vivo": true,
+      "actor": "Emma Watson",
+      "cara": "Recurso 9hermione.png"
+      
+    },
+    {
+      "nombre": "Cedric Diggory",
+      "genero": "male",
+      "nacimiento": 1977,
+      "especie": "human",
+      "casa": "Hufflepuff",
+      "numero" : 550,
+      "varitaCm": 31.115000000000002,
+      "hogwartsEstudiante": true,
+      "vivo": false,
+      "actor": "Robert Pattinson",
+      "cara": "Recurso 10cedric.png"
+      
+    },
+    {
+      "nombre": "Severus Snape",
+      "genero": "male",
+      "nacimiento": 1960,
+      "especie": "human",
+      "casa": "Slytherin",
+      "numero" : 1200,
+      "varitaCm": 34.036,
+      "hogwartsEstudiante": false,
+      "vivo": false,
+      "actor": "Alan Rickman",
+      "cara": "Recurso 12snape.png"
+      
+    },
+    {
+      "nombre": "Lucius Malfoy",
+      "genero": "male",
+      "nacimiento": 1954,
+      "especie": "human",
+      "casa": "Slytherin",
+      "numero" : 1040,
+      "varitaCm": 45.72,
+      "hogwartsEstudiante": false,
+      "vivo": true,
+      "actor": "Jason Isaacs",
+      "cara": "Recurso 15lucius.png"
+      
+    },
+    {
+      "nombre": "Bellatrix Lestrange",
+      "genero": "female",
+      "nacimiento": 1951,
+      "especie": "human",
+      "casa": "Slytherin",
+      "numero" : 1260,
+      "varitaCm": 32.385,
+      "hogwartsEstudiante": false,
+      "vivo": false,
+      "actor": "Helena Bonham Carter",
+      "cara": "Recurso 16bellatrix.png"
+      
+    },
+    {
+      "nombre": "Rubeus Hagrid",
+      "genero": "male",
+      "nacimiento": 1928,
+      "especie": "half-giant",
+      "casa": "Gryffindor",
+      "numero" : 340,
+      "varitaCm": 40.64,
+      "hogwartsEstudiante": false,
+      "vivo": true,
+      "actor": "Robbie Coltrane",
+      "cara": "Recurso 17hagrid.png"
+    },
+    {
+      "nombre": "Lord Voldemort",
+      "genero": "male",
+      "nacimiento": 1926,
+      "especie": "human",
+      "casa": "Slytherin",
+      "numero" : 1200,
+      "varitaCm": 34.29,
+      "hogwartsEstudiante": false,
+      "vivo": false,
+      "actor": "Ralph Fiennes",
+      "cara": "Recurso 18voldemort.png"
+      
+    },
+    {
+      "nombre": "Minerva McGonagall",
+      "genero": "female",
+      "nacimiento": 1925,
+      "especie": "human",
+      "casa": "Gryffindor",
+      "numero" : 180,
+      "varitaCm": 24.13,
+      "hogwartsEstudiante": false,
+      "vivo": true,
+      "actor": "Dame Maggie Smith",
+      "cara": "Recurso 19mcgonagall.png"
+      
+    }
+  ]
+}
